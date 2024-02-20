@@ -1,0 +1,38 @@
+# Compiled files
+bin/
+obj/
+
+# Dependencies
+**/bin/
+**/obj/
+packages/
+
+# Local development files
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+*.user
+*.suo
+*.cache
+*.docstates
+
+# ReSharper files
+_ReSharper*/
+*.ReSharper*/
+*.resharper*/
