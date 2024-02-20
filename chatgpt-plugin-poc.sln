@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{3A3C4CA1-F6CC-48B9-A842-42079E67407F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qbem.Gpt.Playground", "Src\Qbem.Gpt.Playground\Qbem.Gpt.Playground.csproj", "{811A4370-9F0C-400C-B0B0-492E6F85CD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{811A4370-9F0C-400C-B0B0-492E6F85CD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811A4370-9F0C-400C-B0B0-492E6F85CD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811A4370-9F0C-400C-B0B0-492E6F85CD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811A4370-9F0C-400C-B0B0-492E6F85CD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{811A4370-9F0C-400C-B0B0-492E6F85CD8C} = {3A3C4CA1-F6CC-48B9-A842-42079E67407F}
+	EndGlobalSection
+EndGlobal

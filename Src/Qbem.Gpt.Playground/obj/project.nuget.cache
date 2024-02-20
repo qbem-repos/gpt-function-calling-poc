@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pdT0k9aeTQbP6isrQRvV6cIfeh52PW2Brj2vpz4HeCUN+hDg61FfCf//8EEqY3ehYtsRkBhECgU28JBUl/Q2EQ==",
+  "success": true,
+  "projectFilePath": "/home/techmista/Workspaces/github.com/techmist/chatgpt-plugin-poc/Src/Qbem.Gpt.Playground/Qbem.Gpt.Playground.csproj",
+  "expectedPackageFiles": [
+    "/home/techmista/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
